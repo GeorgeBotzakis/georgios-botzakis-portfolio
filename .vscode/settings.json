@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.jsxBracketSameLine": true,
+    "editor.minimap.maxColumn": 10
+}
